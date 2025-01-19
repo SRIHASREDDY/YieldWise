@@ -48,11 +48,11 @@ Ensure you have the following installed:
 ### Steps to Run the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/crop-yield-prediction.git
+   git clone https://github.com/your-username/YieldWise.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd crop-yield-prediction
+   cd YieldWise
    ```
 3. Install the required libraries:
    ```bash
